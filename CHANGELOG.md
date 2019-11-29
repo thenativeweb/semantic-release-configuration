@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.1...v1.0.2) (2019-11-29)
+
+
+### Bug Fixes
+
+* Fix typo. ([#4](https://github.com/thenativeweb/semantic-release-configuration/issues/4)) ([c58307f](https://github.com/thenativeweb/semantic-release-configuration/commit/c58307f45f3e70791860e65fffb93bf39dbe6701))
+
 ## [1.0.1](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.0...v1.0.1) (2019-11-29)
 
 
