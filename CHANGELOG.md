@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.5...1.0.6) (2019-11-29)
+
+
+### Bug Fixes
+
+* Use the correct tag format. ([#8](https://github.com/thenativeweb/semantic-release-configuration/issues/8)) ([9a11388](https://github.com/thenativeweb/semantic-release-configuration/commit/9a11388026f5770d2b1caab82964fbc333694547))
+
 ## [1.0.5](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.4...v1.0.5) (2019-11-29)
 
 
