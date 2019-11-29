@@ -8,7 +8,9 @@ const configuration = {
     '@semantic-release/npm',
     '@semantic-release/git'
   ],
+  /* eslint-disable no-template-curly-in-string */
   tagFormat: '${version}'
+  /* eslint-enable no-template-curly-in-string */
 };
 
 module.exports = configuration;
