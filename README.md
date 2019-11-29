@@ -9,7 +9,7 @@ semantic-release-configuration contains the semantic-release configuration for t
 | Version          | [![npm](https://img.shields.io/npm/v/semantic-release-configuration)](https://www.npmjs.com/package/semantic-release-configuration)                                                      |
 | Dependencies     | ![David](https://img.shields.io/david/thenativeweb/semantic-release-configuration)                                                                                                       |
 | Dev dependencies | ![David](https://img.shields.io/david/dev/thenativeweb/semantic-release-configuration)                                                                                                   |
-| Build            | [![GitHub Actions](https://github.com/thenativeweb/semantic-release-configuration/workflows/Release/badge.svg)                                                                           |
+| Build            | ![GitHub Actions](https://github.com/thenativeweb/semantic-release-configuration/workflows/Release/badge.svg)                                                                           |
 | License          | ![GitHub](https://img.shields.io/github/license/thenativeweb/semantic-release-configuration)                                                                                             |
 
 ## Installation
