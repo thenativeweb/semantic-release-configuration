@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.3...v1.0.4) (2019-11-29)
+
+
+### Bug Fixes
+
+* Fix badge to use master branch. ([#6](https://github.com/thenativeweb/semantic-release-configuration/issues/6)) ([a3fa428](https://github.com/thenativeweb/semantic-release-configuration/commit/a3fa42843f37537cd69a9744ef6ca9038931662c))
+
 ## [1.0.3](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.2...v1.0.3) (2019-11-29)
 
 
