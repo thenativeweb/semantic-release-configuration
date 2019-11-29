@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.4...v1.0.5) (2019-11-29)
+
+
+### Bug Fixes
+
+* Enable builds on macOS. ([#7](https://github.com/thenativeweb/semantic-release-configuration/issues/7)) ([92725b0](https://github.com/thenativeweb/semantic-release-configuration/commit/92725b0f2ebaeaf48abe3539fb34bc73953881a9))
+
 ## [1.0.4](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.3...v1.0.4) (2019-11-29)
 
 
