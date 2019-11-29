@@ -7,7 +7,8 @@ const configuration = {
     '@semantic-release/changelog',
     '@semantic-release/npm',
     '@semantic-release/git'
-  ]
+  ],
+  tagFormat: '${version}'
 };
 
 module.exports = configuration;
