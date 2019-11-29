@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/thenativeweb/semantic-release-configuration/compare/v1.0.0...v1.0.1) (2019-11-29)
+
+
+### Bug Fixes
+
+* Replace build badge. ([#3](https://github.com/thenativeweb/semantic-release-configuration/issues/3)) ([5da9e40](https://github.com/thenativeweb/semantic-release-configuration/commit/5da9e40f6a1165c9910c90da564f30664eeef0b7))
+
 # 1.0.0 (2019-11-29)
 
 
