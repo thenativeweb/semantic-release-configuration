@@ -1,4 +1,4 @@
-name: On merge to master
+name: Release
 
 on:
   push:
