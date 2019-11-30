@@ -26,8 +26,6 @@ The following semantic-release components are included by default, so you don't 
 
 ## Quick Start
 
-This module contains the semantic-release configuration for the native web.
-
 To use this configurations, create a `.releaserc.json` file in your project and use the `extends` keyword.
 
 ```json
