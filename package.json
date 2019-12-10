@@ -19,7 +19,7 @@
     "semantic-release": "15.13.31"
   },
   "devDependencies": {
-    "roboter": "10.0.3"
+    "roboter": "10.0.4"
   },
   "repository": {
     "type": "git",
