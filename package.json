@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-configuration",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "semantic-release-configuration contains the semantic-release configuration for the native web.",
   "contributors": [
     {
