@@ -15,8 +15,8 @@
   "main": "configuration.js",
   "dependencies": {
     "@semantic-release/changelog": "3.0.6",
-    "@semantic-release/git": "7.0.18",
-    "semantic-release": "15.14.0"
+    "@semantic-release/git": "8.0.0",
+    "semantic-release": "16.0.0"
   },
   "devDependencies": {
     "roboter": "10.1.17"
