@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.7...1.0.8) (2020-01-09)
+
+
+### Bug Fixes
+
+* bump semantic-release and @semantic-release/git ([#37](https://github.com/thenativeweb/semantic-release-configuration/issues/37)) ([b58afd1](https://github.com/thenativeweb/semantic-release-configuration/commit/b58afd10e9bbed60b2e1ad2c79fcfefc57ffd3a5))
+
 ## [1.0.7](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.6...1.0.7) (2019-12-21)
 
 
