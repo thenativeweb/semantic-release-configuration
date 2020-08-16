@@ -19,7 +19,7 @@
     "semantic-release": "17.0.8"
   },
   "devDependencies": {
-    "roboter": "11.2.15"
+    "roboter": "11.2.18"
   },
   "repository": {
     "type": "git",
