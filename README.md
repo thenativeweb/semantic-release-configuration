@@ -34,7 +34,7 @@ To use this configurations, create a `.releaserc.json` file in your project and 
 }
 ```
 
-## Running the build
+## Running the quality assurance
 
 ```shell
 $ npx roboter
