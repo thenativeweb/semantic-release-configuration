@@ -34,7 +34,9 @@ To use this configurations, create a `.releaserc.json` file in your project and 
 }
 ```
 
-## Running the quality assurance
+## Running quality assurance
+
+To run quality assurance for this module use [roboter](https://www.npmjs.com/package/roboter):
 
 ```shell
 $ npx roboter
