@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.24...1.0.25) (2020-11-03)
+
+
+### Bug Fixes
+
+* Fix headline for robot section in readme. ([#163](https://github.com/thenativeweb/semantic-release-configuration/issues/163)) ([5cbb4fb](https://github.com/thenativeweb/semantic-release-configuration/commit/5cbb4fb0468834a0a76c2a10ecf6bebafe28190a))
+
 ## [1.0.24](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.23...1.0.24) (2020-10-30)
 
 
