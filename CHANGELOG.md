@@ -1,3 +1,10 @@
+## [1.0.35](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.34...1.0.35) (2021-02-27)
+
+
+### Bug Fixes
+
+* bump semantic-release from 17.3.9 to 17.4.0 ([#229](https://github.com/thenativeweb/semantic-release-configuration/issues/229)) ([17ac4f6](https://github.com/thenativeweb/semantic-release-configuration/commit/17ac4f61ce50e2b4cc0b3a50010cb968ee60999c))
+
 ## [1.0.34](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.33...1.0.34) (2021-02-15)
 
 
