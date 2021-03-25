@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.36...2.0.0) (2021-03-25)
+
+
+### Features
+
+* Replace master with main. ([#242](https://github.com/thenativeweb/semantic-release-configuration/issues/242)) ([465bdda](https://github.com/thenativeweb/semantic-release-configuration/commit/465bddae5182c5979e02a1056aa6097a58c4a801))
+
+
+### BREAKING CHANGES
+
+* The new branch for publishing is main, not master any more.
+
 ## [1.0.36](https://github.com/thenativeweb/semantic-release-configuration/compare/1.0.35...1.0.36) (2021-03-04)
 
 
