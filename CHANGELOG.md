@@ -1,3 +1,17 @@
+## [2.0.3](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.2...2.0.3) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump glob-parent from 5.1.1 to 5.1.2 ([#262](https://github.com/thenativeweb/semantic-release-configuration/issues/262)) ([5a12f00](https://github.com/thenativeweb/semantic-release-configuration/commit/5a12f00f1ae21186588cbfde340d8635ecaed6a5))
+
+## [2.0.2](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.1...2.0.2) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump trim-newlines from 3.0.0 to 3.0.1 ([#261](https://github.com/thenativeweb/semantic-release-configuration/issues/261)) ([57a56aa](https://github.com/thenativeweb/semantic-release-configuration/commit/57a56aaa91d624fa393ed62c84cf778954550fa0))
+
 ## [2.0.1](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.0...2.0.1) (2021-05-17)
 
 
