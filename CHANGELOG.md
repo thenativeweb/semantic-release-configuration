@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.3...2.0.4) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump normalize-url from 6.0.0 to 6.0.1 ([#260](https://github.com/thenativeweb/semantic-release-configuration/issues/260)) ([9c449d9](https://github.com/thenativeweb/semantic-release-configuration/commit/9c449d90982f3af27f64f950d5a2f894b986b3b3))
+
 ## [2.0.3](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.2...2.0.3) (2021-06-10)
 
 
