@@ -21,7 +21,7 @@
     "semantic-release": "18.0.1"
   },
   "devDependencies": {
-    "roboter": "12.5.0"
+    "roboter": "12.6.0"
   },
   "scripts": {},
   "repository": {
