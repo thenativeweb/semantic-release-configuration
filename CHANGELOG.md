@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.5...2.0.6) (2022-01-26)
+
+
+### Bug Fixes
+
+* bump semantic-release from 18.0.1 to 19.0.2 ([#284](https://github.com/thenativeweb/semantic-release-configuration/issues/284)) ([75d4cfa](https://github.com/thenativeweb/semantic-release-configuration/commit/75d4cfa9cf305d97d035209e5bf17f299ea221c5))
+
 ## [2.0.5](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.4...2.0.5) (2021-06-28)
 
 
