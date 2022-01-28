@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.6...2.0.7) (2022-01-26)
+
+
+### Bug Fixes
+
+* bump node-fetch from 2.6.2 to 2.6.7 ([#287](https://github.com/thenativeweb/semantic-release-configuration/issues/287)) ([86f66c2](https://github.com/thenativeweb/semantic-release-configuration/commit/86f66c2ee2c63e35e78b35f828f2a23145b93328))
+
 ## [2.0.6](https://github.com/thenativeweb/semantic-release-configuration/compare/2.0.5...2.0.6) (2022-01-26)
 
 
